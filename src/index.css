@@ -131,6 +131,7 @@ header .container {
   transition: 0.3s;
   border: none;
   font-size: medium;
+  cursor: pointer;
 }
 
 .btn:hover {
