@@ -59,13 +59,13 @@ const Hero = ({ onReferClick }) => {
           <div className="container">
             <div className="left">
               <div className="big-title">
-                <h1>Future is here,</h1>
-                <h1>Start Exploring now.</h1>
+                <h1>Refer & Earn:</h1>
+                <h1>Your Gateway to Opportunities.</h1>
               </div>
               <p className="text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Delectus eius distinctio odit, magni magnam qui ex perferendis
-                vitae!
+                Share our courses with your network and help others embark on
+                their learning journey. Earn more with every successful referral
+                – start sharing today!
               </p>
               <div className="cta">
                 <button className="btn" onClick={onReferClick}>
