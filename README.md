@@ -10,15 +10,9 @@ A responsive and visually appealing landing page for a "Refer & Earn" program, b
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Project](#running-the-project)
-- [Usage](#usage)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## Demo
 
-You can see a live demo of the landing page [here](#).
+You can see a live demo of the landing page [here](https://refer-earn-three.vercel.app/).
 
 ## Features
 
